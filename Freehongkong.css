@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#left{
+    width: 20vw;
+    height: 90vh;
+    background-color: crimson;
+    float: left;
+}
+#middle{
+    width: 50vw;
+    height: 90vh;
+    float: left;
+}
+#right{
+    width: 20vw;
+    height: 89vh;
+    background-color: crimson;
+    float: right;
+}
+#topp{
+    width: 100vw;
+    height: 10vh;
+    float: left;
+}
+#topp, h2{
+    text-align: center;
+}
+#topp, p{
+    float: right;
+}
